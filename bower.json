@@ -6,7 +6,7 @@
     "ng-ckeditor.css"
   ],
   "dependencies": {
-    "angular": "^1.4.0",
+    "angular": "1.4.7",
     "ckeditor": "^4.4.0"
   },
   "devDependencies": {
